@@ -1,8 +1,3 @@
-Week 2 Assignment : Notes Website
-
-Name: Manasvi Kadam
-
-Roll Number: 23B1300
 
 Working of the website-
 
